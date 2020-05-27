@@ -1,4 +1,4 @@
-# kai-template-redux
+# kai-template-translation
 
 Simple project template with samples of:
 - Basic web application (`react`)
@@ -9,3 +9,4 @@ Simple project template with samples of:
 - Formatting on commit (`prettier`)
 - Test support (`jest`)
 - Store and state management (`react-redux`)
+- Localization support from browser language setting (`react-intl`)

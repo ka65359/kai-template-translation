@@ -1,10 +1,10 @@
 {
-  "name": "kai-template-redux",
+  "name": "kai-template-translation",
   "version": "1.0.0",
-  "description": "Kai's Project Template with linting/formatting, jest, and redux examples",
+  "description": "Kai's Project Template with translation support examples",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ka65359/kai-template-redux.git"
+    "url": "https://github.com/ka65359/kai-template-translation.git"
   },
   "author": "Kai Arrowood",
   "license": "MIT",
